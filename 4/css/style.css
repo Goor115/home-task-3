@@ -4,33 +4,26 @@
 }
 
 .solid {
-  border: 3px solid black;
+  background-color: #433335;
 }
 
 .dashed {
-  border: 3px dashed black;
+  background-color: blue;
 }
 
 .dotted {
-  border: 3px dotted black;
+  background-color: rgb(200, 145, 215);
 }
 
 .double {
-  border: 3px double black;
+  background-color: #333;
 }
 
 .groove {
-  border: 3px groove;
+ background-color: hsla(98, 45%, 55%, 0.45);
 }
 
 .ridge {
-  border: 3px ridge;
-}
-
-.inset {
-  border: 3px inset;
-}
-
-.outset {
-  border: 3px outset;
+  background-image: url(/img/vivid-blurred-colorful-background.jpg);
+  background-repeat: no-repeat;
 }
