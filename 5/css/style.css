@@ -1,0 +1,29 @@
+.main-content {
+  width: 1200px;
+  margin: 20px 20px;
+}
+
+.solid {
+  background-color: #433335;
+}
+
+.dashed {
+  background-color: blue;
+}
+
+.dotted {
+  background-color: rgb(200, 145, 215);
+}
+
+.double {
+  background-color: #333;
+}
+
+.groove {
+ background-color: hsla(98, 45%, 55%, 0.45);
+}
+
+.ridge {
+  background-image: url(/img/vivid-blurred-colorful-background.jpg);
+  background-repeat: no-repeat;
+}
