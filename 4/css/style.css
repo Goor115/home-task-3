@@ -1,0 +1,36 @@
+.main-content {
+  width: 1200px;
+  margin: 20px 20px;
+}
+
+.solid {
+  border: 3px solid black;
+}
+
+.dashed {
+  border: 3px dashed black;
+}
+
+.dotted {
+  border: 3px dotted black;
+}
+
+.double {
+  border: 3px double black;
+}
+
+.groove {
+  border: 3px groove;
+}
+
+.ridge {
+  border: 3px ridge;
+}
+
+.inset {
+  border: 3px inset;
+}
+
+.outset {
+  border: 3px outset;
+}
